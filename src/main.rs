@@ -42,6 +42,6 @@ fn main() {
     }
 
 
-    println!("The greatest common divisor of {:?} is {}",
+    println!("test The greatest common divisor of {:?} is {}",
              numbers, d);
 }
